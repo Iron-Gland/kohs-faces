@@ -22,3 +22,10 @@
 .md [href$="##homer"]:hover {
 	animation: homer 2s steps(35) forwards; /* #.#s is total gif duration, steps(#) is number of frames minus 1 */
 }
+
+/* Non Non Biyori */
+.md [href$="##rengeshock"] {
+	background-image: url("https://i.imgur.com/vdDDXmp.png/") !important;
+	width: 200px !important;
+	height: 149px !important;
+}
